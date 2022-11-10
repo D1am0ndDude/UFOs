@@ -13,3 +13,6 @@ The following image gives an example on how to use the filter:
 ![Filter](https://user-images.githubusercontent.com/46943357/201149686-29eaa485-8e36-4fcc-9c33-6db400571420.PNG)
 
 All you need to do, is fill out the desired criteria. The results will automatically show up for you! 
+
+# Summary
+One drawback is the limited space on the webpage. If we can make it a mutlipage webpage, it will be able to hold more information. For further development, I would recommend adding a way to reach the owner of the webpage, for further information. Another thing I would add, are more images of aliens, to pretty it up. 
