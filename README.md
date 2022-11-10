@@ -7,6 +7,9 @@ The purpose of this analysis was to design a webpage using the combinations of J
 
 # Results
 The following image gives an example on how to use the filter:
+
+
+
 ![Filter](https://user-images.githubusercontent.com/46943357/201149686-29eaa485-8e36-4fcc-9c33-6db400571420.PNG)
 
 All you need to do, is fill out the desired criteria. The results will automatically show up for you! 
